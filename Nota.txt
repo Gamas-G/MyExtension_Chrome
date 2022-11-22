@@ -1,0 +1,5 @@
+Revisar
+https://developer.chrome.com/docs/extensions/reference/windows/#event-onRemoved
+https://developer.chrome.com/docs/extensions/reference/windows/#method-getAll
+https://developer.chrome.com/docs/extensions/reference/permissions/
+https://developer.chrome.com/docs/extensions/reference/tabs/#method-get
