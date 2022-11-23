@@ -1,4 +1,4 @@
-export function openWindow(url){
-    if(window.open(url))
-    console.log("ALgo paso");
+export function openWindow(){
+    // if(window.open(url))
+    console.log("ALgo paso, soy del background?");
 }
